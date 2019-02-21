@@ -1,11 +1,1 @@
-# hello-world2
-I'm still trying to figure this out...
-
-#include <iostream>
-using namespace std;
-  
-  int main (){
-    
-    cout << "Hello World!";
-    return 0;
-  }
+This is my first real attempt at using GitHub... Maybe I'll get it to work!
